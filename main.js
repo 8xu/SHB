@@ -2,6 +2,7 @@ const Steam = require('steam-user');
 const config = require('./config.json'); // Imports required information from config.json
 const client = new Steam();
 
+process.title = `SHB | Boost Steam hours!`
 client.logOn({
     "accountName": config.username,
     "password": config.password
@@ -9,6 +10,7 @@ client.logOn({
 
 client.on("loggedOn", () => {
     console.log(`Logged in as ${config.username}.`);
+    process.title = `SHB | Currently boosting!`
 	client.setPersona(Steam.EPersonaState.Online);
 	client.gamesPlayed(config.games);
 });

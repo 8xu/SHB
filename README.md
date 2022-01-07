@@ -1,4 +1,5 @@
 # SHB
+![GitHub last commit](https://img.shields.io/github/last-commit/8xu/shb)
 > 🪶 Lightweight Steam Hour Booster
 
 
@@ -13,7 +14,8 @@
 5. Run `node main.js` to start the hour booster.
 
 ## Notes
-- [ ] Works with Steam Guard
+- You can only boost **32** games in the same time!
+- This **does not work** with Steam Guard!
     > Steam Guard should be not enabled on the account you are trying to boost hours on.
 
 ## Running 24/7 on Replit

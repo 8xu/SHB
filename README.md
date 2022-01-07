@@ -11,3 +11,6 @@
     > Get steam game IDs [here](https://steamdb.info/apps/).
 4. Rename `config.json.example` to `config.json`.
 5. Run `node main.js` to start the hour booster.
+
+## Running 24/7 on Replit
+You can run this 24/7 on [Repl.it](https://replit.com/) for as little as *$7*/ month with the *Hacker* plan. See pricing [here](https://replit.com/site/pricing).

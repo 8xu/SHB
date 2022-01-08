@@ -1,4 +1,4 @@
-# SHB ![GitHub last commit](https://img.shields.io/github/last-commit/8xu/shb)
+# SHB ![GitHub last commit](https://img.shields.io/github/last-commit/8xu/shb) ![GitHub all releases](https://img.shields.io/github/downloads/8xu/shb/total)
 ![Header Image](/media/header.png)
 > 🪶 Lightweight Steam Hour Booster
 
